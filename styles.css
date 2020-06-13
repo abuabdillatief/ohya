@@ -68,8 +68,8 @@ body {
 }
 
 .sera_img {
-    height: 160px;
-    width: auto;
+    height: auto;
+    width: 100%;
 }
 
 .first_class_desc {
@@ -78,7 +78,7 @@ body {
 
 .consultation_img {
     height: auto;
-    width: 100%;
+    width:auto;
 }
 
 .culinary_img {
