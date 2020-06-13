@@ -1,0 +1,96 @@
+/* SECTION TAGS */
+
+body {
+    font-family: "monsterrat";
+}
+
+
+/* CLASSES TAGS */
+
+
+/* Header */
+
+.ohya_home {
+    margin: auto;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+
+.ohya_home:hover {
+    margin: 1%;
+}
+
+.logo {
+    height: auto;
+    max-width: 600px;
+    display: flexbox;
+}
+
+.logo_text_desc {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    display: flexbox;
+}
+
+.tagline {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+}
+
+.nav-link {
+    font-family: 'Caveat', cursive;
+}
+
+.dropdown-item {
+    font-family: 'Caveat', cursive;
+}
+
+
+/* Body */
+
+.body {
+    text-align: center;
+}
+
+.main_Service {
+    font-family: 'Caveat', cursive;
+    background-color: papayawhip;
+}
+
+.headline {
+    font-weight: bold;
+}
+
+.sera_img {
+    height: 160px;
+    width: auto;
+}
+
+.first_class_desc {
+    font-size: 1.25rem;
+}
+
+.consultation_img {
+    height: 200px;
+    width: auto;
+}
+
+.culinary_img {
+    height: auto;
+    width: 100%;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+.footer-icon {
+    margin: 1% 1%;
+}
