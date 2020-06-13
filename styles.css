@@ -77,8 +77,8 @@ body {
 }
 
 .consultation_img {
-    height: auto;
-    width:150px;
+    height: 100%;
+    width:auto;
 }
 
 .culinary_img {
